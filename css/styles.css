@@ -129,6 +129,8 @@ margin-left: auto;
     background-repeat: no-repeat;
     background-size: cover;
     max-width: 1440px;
+    display: flex;
+    margin: 0 auto;
 }
 
 .top-title-name {
@@ -167,9 +169,7 @@ margin-left: auto;
     background-color: #404bbf;
     color: #fff;
 }
-.section{
-  
-}
+
 .visually-hidden {
     margin: -1px;
     border: 0;
